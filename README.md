@@ -1,5 +1,5 @@
-GOGH-Paint
-==========
+GOGH-Paint (http://en.wikipedia.org/wiki/Vincent_van_Gogh)
+==========================================================
 
 A simple graphics editor based on OpenGL 1.1.
 
